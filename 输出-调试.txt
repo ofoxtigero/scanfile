@@ -1,0 +1,20 @@
+﻿“scanfile.exe”: 已加载“D:\Projects\scanfile\Debug\scanfile.exe”，已加载符号。
+“scanfile.exe”: 已加载“C:\Windows\SysWOW64\ntdll.dll”，Cannot find or open the PDB file
+“scanfile.exe”: 已加载“C:\Windows\SysWOW64\kernel32.dll”，Cannot find or open the PDB file
+“scanfile.exe”: 已加载“C:\Windows\SysWOW64\KernelBase.dll”，Cannot find or open the PDB file
+“scanfile.exe”: 已加载“C:\Windows\SysWOW64\shlwapi.dll”，Cannot find or open the PDB file
+“scanfile.exe”: 已加载“C:\Windows\SysWOW64\gdi32.dll”，Cannot find or open the PDB file
+“scanfile.exe”: 已加载“C:\Windows\SysWOW64\user32.dll”，Cannot find or open the PDB file
+“scanfile.exe”: 已加载“C:\Windows\SysWOW64\advapi32.dll”，Cannot find or open the PDB file
+“scanfile.exe”: 已加载“C:\Windows\SysWOW64\msvcrt.dll”，Cannot find or open the PDB file
+“scanfile.exe”: 已加载“C:\Windows\SysWOW64\sechost.dll”，Cannot find or open the PDB file
+“scanfile.exe”: 已加载“C:\Windows\SysWOW64\rpcrt4.dll”，Cannot find or open the PDB file
+“scanfile.exe”: 已加载“C:\Windows\SysWOW64\sspicli.dll”，Cannot find or open the PDB file
+“scanfile.exe”: 已加载“C:\Windows\SysWOW64\cryptbase.dll”，Cannot find or open the PDB file
+“scanfile.exe”: 已加载“C:\Windows\SysWOW64\lpk.dll”，Cannot find or open the PDB file
+“scanfile.exe”: 已加载“C:\Windows\SysWOW64\usp10.dll”，Cannot find or open the PDB file
+“scanfile.exe”: 已加载“C:\Windows\SysWOW64\msvcr100d.dll”，已加载符号。
+“scanfile.exe”: 已加载“C:\Windows\SysWOW64\imm32.dll”，Cannot find or open the PDB file
+“scanfile.exe”: 已加载“C:\Windows\SysWOW64\msctf.dll”，Cannot find or open the PDB file
+线程 'Win32 线程' (0xfe8) 已退出，返回值为 -1073741510 (0xc000013a)。
+程序“[2896] scanfile.exe: 本机”已退出，返回值为 -1073741510 (0xc000013a)。
